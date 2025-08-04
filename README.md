@@ -1,0 +1,3 @@
+# ArtClassifier: Deep Learning Model for Art Style Detection
+
+This repository contains the implementation of ArtClassifier, a deep learning-based system for classifying paintings into one of 14 distinct art styles. The project leverages a fine-tuned ResNet-50 model trained on the [WikiArt dataset](https://www.kaggle.com/datasets/steubk/wikiart) and provides a complete end-to-end pipeline for data preparation, training, evaluation, and inference(or prediction). A live demo is available on [Hugging Face Spaces](https://huggingface.co/spaces/ahmdshbz/ArtDetector).
