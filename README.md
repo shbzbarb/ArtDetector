@@ -116,12 +116,12 @@ Outputs:
 
 Classify individual or multiple images:
 
+## Single image inference
 ```bash
-# Single image
-python scripts/predict.py /path/to/artwork.jpg
+python scripts/predict.py /path/to/artwork.jpg 
 ```
+## Folder with multiple images inference
 ```bash
-# Directory of images
 python scripts/predict.py /path/to/art_folder/
 ```
 
