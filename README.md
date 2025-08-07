@@ -118,11 +118,11 @@ Classify individual or multiple images:
 
 ```bash
 # Single image
-python scripts/predict.py --path /path/to/artwork.jpg
+python scripts/predict.py /path/to/artwork.jpg
 ```
 ```bash
 # Directory of images
-python scripts/predict.py --path /path/to/art_folder/
+python scripts/predict.py /path/to/art_folder/
 ```
 
 ### 4. Launch the Interactive Web App
